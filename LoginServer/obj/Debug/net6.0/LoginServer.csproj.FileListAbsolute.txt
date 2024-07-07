@@ -1,0 +1,15 @@
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\bin\Debug\net6.0\LoginServer.exe
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\bin\Debug\net6.0\LoginServer.deps.json
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\bin\Debug\net6.0\LoginServer.runtimeconfig.json
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\bin\Debug\net6.0\LoginServer.dll
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\bin\Debug\net6.0\LoginServer.pdb
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\LoginServer.csproj.AssemblyReference.cache
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\LoginServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\LoginServer.AssemblyInfoInputs.cache
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\LoginServer.AssemblyInfo.cs
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\LoginServer.csproj.CoreCompileInputs.cache
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\LoginServer.dll
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\refint\LoginServer.dll
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\LoginServer.pdb
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\LoginServer.genruntimeconfig.cache
+C:\Users\Suhairi\Documents\C#\cobaAsync\LoginServer\obj\Debug\net6.0\ref\LoginServer.dll
